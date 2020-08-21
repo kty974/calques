@@ -1,0 +1,23 @@
+bounding_box:
+  image_height: 1400
+  image_width: 1400
+  maxlat: 26.79502596032627
+  maxlon: -103.40497403967373
+  minlat: 14.20497403967373
+  minlon: -115.99502596032629
+  pixel_height_m: 1000.0
+  pixel_width_m: 1000.0
+  proj4_string: +a=6371228.0 +units=m +lon_0=-109.7 +proj=eqc +lat_0=20.5
+clat: 20.5
+clon: -109.7
+deck_line: EP,12,2020081912,,OFCL,12,20.5,-109.7,105,,HU,34,NEQ,120,100,80,100,50,NEQ,60,50,40,60,64,NEQ,30,30,20,30,,,,130,25,,,ESB,325,8,,,,,,,,
+final_storm_name: GENEVIEVE
+pressure: ''
+product_filename: https://www.nrlmry.navy.mil/tcdat/tc2020/EP/EP122020/png_dev/color37/F18/20200819_120300_EP122020_ssmis_F18_color37_105kts_96p17_1p0.png
+source_sector_file: /nrtdata/realtime/longterm_files/atcf/decks/Gep122020.dat
+storm_basin: EP
+storm_name: ''
+storm_num: '12'
+storm_year: '2020'
+synoptic_time: 2020-08-19 12:00:00
+wind_speed: 105.0

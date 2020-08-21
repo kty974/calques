@@ -1,0 +1,23 @@
+
+
+essai de traitement :
+-----------------------
+a partir de  EP/EP122020/metadata_dev/sector_information/20200819/
+  20200819_120300_EP122020_ssmis_F18_color37_105kts_96p17_1p0.png.yaml
+  a ouvrir avec sublime-text  et creer le .txt avec les coordonnées
+https://www.nrlmry.navy.mil/tcdat/tc2020/EP/EP122020/png_clean_dev/color37/F18/20200819_120300_EP122020_ssmis_F18_color37Clean_105kts_96p17_1p0.png
+20200819_120300_EP122020_ssmis_F18_color37Clean_105kts_96p17_1p0.png
+
+les fichiers sont dans tmp et marchent sous synergie
+
+remarques :
+Attention il peut y avoir plusieurs traitements avec un % de couverture different !
+ il manque les 89color
+
+
+
+
+
+
+
+
